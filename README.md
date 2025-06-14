@@ -5,3 +5,7 @@ Alfred Fallback search for Persian dictionaries https://Vajehyab.com and https:/
 
 
 
+
+
+https://github.com/user-attachments/assets/d42532a4-442a-4c7c-987b-f7bfc0786c30
+
