@@ -1,2 +1,7 @@
 # persian-dictionaries
-Alfred Fallback search for Persian dictionaries Vajehyab.com and FastDic.com
+
+<img src="https://github.com/user-attachments/assets/c243d8c3-4295-42d1-a136-2bf39e41055b" width="55px" align="absmiddle">
+Alfred Fallback search for Persian dictionaries https://Vajehyab.com and https://FastDic.com.
+
+
+
